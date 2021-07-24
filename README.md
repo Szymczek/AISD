@@ -22,12 +22,12 @@ nastąpi przepełnienie stosu w przypadku losowania rekurencyjnego).
 
 #### Projekt 1
 ##### OKREGI 
-*Zdefiniować strukturę umożliwiającą przechowywanie w postaci listy parametrów okręgów na płaszczyźnie (współrzędne środka, promień) 
-*Wczytywać dane kolejnych okręgów, aż do wczytania okręgu o ujemnym promieniu. Dane zapisywać do listy w taki sposób, że kolejny wczytany jest zapisywany na końcu listy (bez tego o ujemnym promieniu). 
-*Wydrukować uzyskaną listę. 
-*Na początku listy dodać okrąg o środku w początku układu współrzędnych i promieniu 1. 
-*Ponownie wydrukować listę. 
-*Zwolnić pamięć. 
+* Zdefiniować strukturę umożliwiającą przechowywanie w postaci listy parametrów okręgów na płaszczyźnie (współrzędne środka, promień) 
+* Wczytywać dane kolejnych okręgów, aż do wczytania okręgu o ujemnym promieniu. Dane zapisywać do listy w taki sposób, że kolejny wczytany jest zapisywany na końcu listy (bez tego o ujemnym promieniu). 
+* Wydrukować uzyskaną listę. 
+* Na początku listy dodać okrąg o środku w początku układu współrzędnych i promieniu 1. 
+* Ponownie wydrukować listę. 
+* Zwolnić pamięć. 
 
 #### Projekt 2
 Zmodyfikować program p1 w następujący sposób:
