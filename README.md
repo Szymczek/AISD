@@ -1,5 +1,5 @@
 # AISD
-Projekt 0
+#### Projekt 0
 
 Napisać program, który w zależności od wyboru użytkownika realizuje jedną z trzech operacji
 służących do wylosowania w trzech tablicach rekordów o polach typu (char, int) i wartościach z
@@ -20,7 +20,7 @@ należy zwiększać ręcznie w kodzie programu stałą n (w wersji 1 i 2) lub wp
 program się zawiesza (tablica zajmie zbyt dużo pamięci statycznej lub dynamicznej albo też
 nastąpi przepełnienie stosu w przypadku losowania rekurencyjnego). 
 
-Projekt 1
+#### Projekt 1
 OKREGI 
 -Zdefiniować strukturę umożliwiającą przechowywanie w postaci listy parametrów okręgów na płaszczyźnie (współrzędne środka, promień) 
 -Wczytywać dane kolejnych okręgów, aż do wczytania okręgu o ujemnym promieniu. Dane zapisywać do listy w taki sposób, że kolejny wczytany jest zapisywany na końcu listy (bez tego o ujemnym promieniu). 
@@ -29,7 +29,7 @@ OKREGI
 -Ponownie wydrukować listę. 
 -Zwolnić pamięć. 
 
-Projekt 2
+#### Projekt 2
 Zmodyfikować program p1 w następujący sposób:
 - umożliwić sortowanie okręgów względem odległości od punktu (0,0)
 - dodać funkcję umożliwiającą wyszukanie okręgów o promieniu zawierającym się w zadanym przez użytkownika przedziale
@@ -39,7 +39,7 @@ Zmodyfikować program p1 w następujący sposób:
 - umożliwić odczyt listy z pliku
 Poszczególne funkcje programu powinny być dostępne z menu, z którego użytkownik poprzez wskazanie numeru funkcji, która go interesuje.
 
-Projekt 3
+#### Projekt 3
 GRAF
 Napisać program znajdujący najkrótsze ścieżki w grafie
 Dane wejściowe w postaci definicji grafu program powinien wczytywać z pliku tekstowego. Plik ten powinien zawierać informację o liczbie wierzchołków, liczbie krawędzi oraz definicje tych krawędzi.
