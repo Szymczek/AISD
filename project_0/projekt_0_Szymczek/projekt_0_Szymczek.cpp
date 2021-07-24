@@ -1,14 +1,3 @@
-// projekt_0_Szymczek.cpp : This file contains the 'main' function. Program execution begins and ends there.
-
-
-/*
-
-### Maksymalny rozmiar dla Tablicy statycznej iteracyjnej to ok. 100 000. 
-### Maksymalny rozmiar dla Tablicy statycznej rekurencyjnej to ok. 10 000.
-### Maksymalny rozmiar dla Tablicy dynamicznej iteracyjnej to ok 100 000 000. 
-
-*/
-
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
