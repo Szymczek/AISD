@@ -11,9 +11,9 @@ funkcji rekurencyjnej.
 3. Wczytuje zmienną całkowitą k i przydziela pamięć na tablicę dynamiczną D o rozmiarze k,
 po czym wypełnia ją wylosowanymi rekordami przy użyciu zwykłej funkcji iteracyjnej.
 Po zakończeniu wypełniania dowolnym z tych sposobów program drukuje:
-• w kolejnych wierszach, wraz z indeksami, 20 ostatnich rekordów tak wylosowanej tablicy
+* w kolejnych wierszach, wraz z indeksami, 20 ostatnich rekordów tak wylosowanej tablicy
 (przy użyciu zwykłej funkcji iteracyjnej drukującej tablicę)
-• rozmiar tablicy i wyznaczony na tej postawie rozmiar pamięci zajętej przez tablicę.
+* rozmiar tablicy i wyznaczony na tej postawie rozmiar pamięci zajętej przez tablicę.
 Należy uzyskać maksymalny rozmiar tablicy dla każdej wersji działania programu. W tym celu
 należy zwiększać ręcznie w kodzie programu stałą n (w wersji 1 i 2) lub wprowadzaną zmienną k
 (w wersji 3) i uruchamiać program aż do momentu, gdy okaże się, że wyniki się nie drukują, bo
