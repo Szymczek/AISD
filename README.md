@@ -21,7 +21,7 @@ program się zawiesza (tablica zajmie zbyt dużo pamięci statycznej lub dynamic
 nastąpi przepełnienie stosu w przypadku losowania rekurencyjnego). 
 
 #### Projekt 1
-OKREGI 
+##### OKREGI 
 -Zdefiniować strukturę umożliwiającą przechowywanie w postaci listy parametrów okręgów na płaszczyźnie (współrzędne środka, promień) 
 -Wczytywać dane kolejnych okręgów, aż do wczytania okręgu o ujemnym promieniu. Dane zapisywać do listy w taki sposób, że kolejny wczytany jest zapisywany na końcu listy (bez tego o ujemnym promieniu). 
 -Wydrukować uzyskaną listę. 
@@ -40,7 +40,7 @@ Zmodyfikować program p1 w następujący sposób:
 Poszczególne funkcje programu powinny być dostępne z menu, z którego użytkownik poprzez wskazanie numeru funkcji, która go interesuje.
 
 #### Projekt 3
-GRAF
+##### GRAF
 Napisać program znajdujący najkrótsze ścieżki w grafie
 Dane wejściowe w postaci definicji grafu program powinien wczytywać z pliku tekstowego. Plik ten powinien zawierać informację o liczbie wierzchołków, liczbie krawędzi oraz definicje tych krawędzi.
 Użytkownik powinien mieć możliwość podania dowolnej pary wierzchołków z wczytanego grafu, a program powinien zwracać łączną długość najkrótszej ścieżki oraz kolejne wierzchołki na tej ścieżce.
